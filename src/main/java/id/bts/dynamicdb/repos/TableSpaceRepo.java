@@ -56,7 +56,6 @@ public class TableSpaceRepo {
 						} catch (SQLException e) {
 							e.printStackTrace();
 						}
-
 						results.add(dbaDataFilesDTO);
 					}
 				}
